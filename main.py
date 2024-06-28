@@ -8,7 +8,7 @@ MU = 398600.4418  # Earth's standard gravitational parameter (km^3/s^2)
 R_EARTH = 6371  # Earth's radius in km (approximate value)
 
 # Read TLE data from file
-input_file = "data-set.txt"
+input_file = input("Enter file path : ")
 with open(input_file, 'r') as file:
     lines = file.readlines()
     if len(lines) < 3:
