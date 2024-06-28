@@ -1,6 +1,5 @@
 from sgp4.api import Satrec, jday
 from datetime import datetime, timedelta
-import pytz
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -21,6 +20,7 @@ name = lines[0].strip()
 line1 = lines[1].strip()
 line2 = lines[2].strip()
 
+# Create satellite object from TLE data
 satellite = Satrec.twoline2rv(line1, line2)
 
 # Get TLE epoch year and day of the year
