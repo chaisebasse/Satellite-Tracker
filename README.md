@@ -12,7 +12,7 @@ As a kid, I always enjoyed space and space-related stuff (like Star Wars😉), b
 
 ### Libraries
 
-I used the libraries `sgp4.api` for computing the actual satellite data, `datetime` for to compute the orbit over 3 hours, `matplotlib.pyplot` for the graphical representation, as well as `numpy` for convenient mathematical computing (mainly algebra).
+I used the libraries `sgp4.api` for computing the actual satellite data, `datetime` to compute the orbit over 3 hours, `matplotlib.pyplot` for the graphical representation, as well as `numpy` for convenient mathematical computing (mainly algebra).
 
 Also, this was made in python version 3.11.9.
 
