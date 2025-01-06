@@ -6,7 +6,7 @@ This python program tracks the position (and orbit!) of a spacecraft relative to
 
 ## Overview
 
-As a kid, I always enjoyed space and space-related stuff (like Star Wars😉), but I "grew out" of that phase as time went by. However more recently I watched the movie "Interstellar" for the second time in my life, the first time being when I was much younger having not understood much about it, and I got a renewed interest for space. So I decided to track satellites, because it would let me use my skills in programming for a personnal interest.
+As a kid, I always enjoyed space and space-related stuff (like Star Wars), but I "grew out" of that phase as time went by. However more recently I watched the movie "Interstellar" for the second time in my life, the first time being when I was much younger having not understood much about it, and I got a renewed interest for space. So I decided to track satellites, because it would let me use my skills in programming for a personnal interest.
 
 ## Implementation Details
 
