@@ -29,7 +29,7 @@ For now only one epoch data from one spacecraft can be added, but I might enhanc
 
 ## Conclusion
 
-This is my first "real" python project, that I've pushed on GitHub anyways. While python was basically the first language I started programming in, I never went into the details of the language (not that I have with this project, but I still went deeper than usual). It was a pretty fun challenge to work with TLE data and sgp4 and all these space-related things, given that it was my first real time. Back in high school I wasn't that good in physics class, and I haven't had much interest in space ever since.
+This is my first "real" python project, that I've pushed on GitHub anyways. While python was basically the first language I started programming in, I never went into the details of the language (not that I have with this project, but I still went deeper than usual). It was a pretty fun challenge to work with TLE data and sgp4 and all these space-related things, given that it was my first real time.
 
 I don't know if I'll ever improve the program, but if you want me to, again don't hesitate to contact me!
 
